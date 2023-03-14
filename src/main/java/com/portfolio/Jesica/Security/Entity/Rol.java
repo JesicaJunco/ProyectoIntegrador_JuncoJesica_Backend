@@ -23,7 +23,6 @@ public class Rol {
     private RolNombre rolNombre;
     
     //Constructor
-
     public Rol() {
     }
 
@@ -48,5 +47,6 @@ public class Rol {
     public void setRolNombre(RolNombre rolNombre) {
         this.rolNombre = rolNombre;
     }
+    
     
 }
